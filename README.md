@@ -1,2 +1,2 @@
 # Project Euler
- My solutions of project euler exerises
+ My solutions of Project Euler exerises.
