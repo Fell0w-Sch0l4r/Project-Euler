@@ -24,7 +24,7 @@ for t in range (100,1000):
     for r in range (100,1000):
         if str(t*r)==str(t*r)[::-1] and t*r>a:
             a=t*r
-print(a)yes'''
+print(a) yes'''
 
 # 5
 '''a=0
