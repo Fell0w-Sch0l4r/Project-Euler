@@ -63,3 +63,4 @@ while a!=10001:
 print(b)'''
 
 #8
+print("As minhas alteraçõeszinhas.")
