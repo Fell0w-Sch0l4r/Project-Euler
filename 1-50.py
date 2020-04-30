@@ -67,5 +67,8 @@ print("As minhas alteraçõeszinhas.")
 a=0
 b=7
 if a>b:
+    print("Ele é maior")
+else:
+    print("Ele é menor,")
 
 print("")
