@@ -64,3 +64,8 @@ print(b)'''
 
 #8
 print("As minhas alteraçõeszinhas.")
+a=0
+b=7
+if a>b:
+
+print("")
