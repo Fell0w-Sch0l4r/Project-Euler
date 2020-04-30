@@ -63,7 +63,7 @@ while a!=10001:
 print(b)'''
 
 #8
-print("As minhas alteraçõeszinhas para mim..")
+print("As minhas alteraçõeszinhas para ele..")
 a=0
 b=7
 if a>b:
@@ -71,4 +71,4 @@ if a>b:
 else:
     print("Ele é menor,")
 
-print("")
+print("O programa está feito.")
