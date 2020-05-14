@@ -6,6 +6,20 @@ for t in range (1,1000):
 print(a)'''
 
 #2
+'''t1=0
+print(t1)
+t2=1
+print(t2)
+t3=t1+t2
+s=0
+while t3<4000000:
+    if t3%2==0:
+        s+=t3
+    print(t3)
+    t1=t2
+    t2=t3
+    t3=t1+t2
+print(f"Soma {s}")'''
 #3
 
 '''a=int(input("Digit the number to calculate the prime factors:"))
@@ -62,4 +76,13 @@ while a!=10001:
         a+=1
 print(b)'''
 
-#8 no
+#8
+'''print("As minhas alteraçõeszinhas para ele..")
+a=0
+b=7
+if a>b:
+    print("Ele é maior")
+else:
+    print("Ele é menor,")
+
+print("O programa está feito.")'''

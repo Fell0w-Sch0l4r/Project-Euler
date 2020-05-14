@@ -1,2 +1,2 @@
 # Project Euler
- My solutions of Project Euler exerises.
+ My solutions of Project Euler exercises.
